@@ -1,0 +1,20 @@
+=============================================================================
+                 WP CSS Generator Change Log
+=============================================================================
+
+Version 1.1.0 - Released 20-Feb-17
+-----------------------------------
+- fixed delete group
+- fixed delete selector
+- add display css option
+
+
+Version 1.0.1 - Released 17-Jan-17
+-----------------------------------
+- fixed forms validation
+- fixed admin ajax
+
+
+Version 1.0.0 - Released 14-Jan-17
+-----------------------------------
+- original release

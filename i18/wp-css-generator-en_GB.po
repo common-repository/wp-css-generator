@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-css-generator-en_GB\n"
+"POT-Creation-Date: 2017-02-20 14:00+0100\n"
+"PO-Revision-Date: 2017-02-20 14:00+0100\n"
+"Last-Translator: NO Solutions - ThemeStreet <support@themestreet.net>\n"
+"Language-Team: WP CSS Generator <support@wpcssgenerator.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: framework/class-bootstrap.php:91
+msgid "You have successfully delete group."
+msgstr ""
+
+#: framework/class-bootstrap.php:113
+msgid "You have successfully delete selektor."
+msgstr ""
+
+#: framework/class-bootstrap.php:211
+msgid "Settings"
+msgstr ""
+
+#: framework/helpers/class-options.php:291
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: framework/helpers/class-options.php:326
+#: framework/helpers/class-options.php:400
+msgid "No name"
+msgstr ""
+
+#: framework/helpers/class-options.php:529
+msgid "CSS Groups"
+msgstr ""
+
+#: framework/helpers/class-options.php:543
+#: framework/helpers/class-options.php:741
+msgid "Order"
+msgstr ""
+
+#: framework/helpers/class-options.php:544
+msgid "Group"
+msgstr ""
+
+#: framework/helpers/class-options.php:545
+msgid "Status"
+msgstr ""
+
+#: framework/helpers/class-options.php:546
+#: framework/helpers/class-options.php:903
+msgid "Viewport"
+msgstr ""
+
+#: framework/helpers/class-options.php:593
+#: framework/helpers/class-options.php:775
+#: framework/helpers/class-options.php:1012
+msgid "Edit"
+msgstr ""
+
+#: framework/helpers/class-options.php:618
+msgid "Add Group"
+msgstr ""
+
+#: framework/helpers/class-options.php:636
+#: framework/helpers/class-options.php:959
+#: framework/helpers/class-options.php:975
+msgid "Publish"
+msgstr ""
+
+#: framework/helpers/class-options.php:642
+msgid "After re-order or change status of group don't forget to save changes."
+msgstr ""
+
+#: framework/helpers/class-options.php:644
+msgid "Customize"
+msgstr ""
+
+#: framework/helpers/class-options.php:645
+msgid "Save"
+msgstr ""
+
+#: framework/helpers/class-options.php:664
+#: framework/helpers/class-options.php:990
+#: framework/helpers/class-options.php:1167
+msgid "Getting Started"
+msgstr ""
+
+#: framework/helpers/class-options.php:666
+#: framework/helpers/class-options.php:991
+#: framework/helpers/class-options.php:1169
+msgid "Pro Version"
+msgstr ""
+
+#: framework/helpers/class-options.php:668
+#: framework/helpers/class-options.php:992
+#: framework/helpers/class-options.php:1171
+msgid "Created by"
+msgstr ""
+
+#: framework/helpers/class-options.php:712
+msgid "Edit CSS Group"
+msgstr ""
+
+#: framework/helpers/class-options.php:712
+msgid "Add New CSS Group"
+msgstr ""
+
+#: framework/helpers/class-options.php:730
+msgid "Enter title here"
+msgstr ""
+
+#: framework/helpers/class-options.php:742
+#: framework/helpers/class-options.php:784
+#: framework/helpers/class-options.php:1022
+msgid "Label"
+msgstr ""
+
+#: framework/helpers/class-options.php:743
+#: framework/helpers/class-options.php:796
+#: framework/helpers/class-options.php:1034
+msgid "CSS Selectors"
+msgstr ""
+
+#: framework/helpers/class-options.php:775
+#: framework/helpers/class-options.php:1012
+msgid "Delete"
+msgstr ""
+
+#: framework/helpers/class-options.php:785
+#: framework/helpers/class-options.php:1023
+msgid "This label will be visible in Customize setting as group option."
+msgstr ""
+
+#: framework/helpers/class-options.php:788
+#: framework/helpers/class-options.php:1026
+msgid "Enter label here"
+msgstr ""
+
+#: framework/helpers/class-options.php:797
+#: framework/helpers/class-options.php:1035
+msgid "Insert CSS selector as classes, IDs or pseudo-classes."
+msgstr ""
+
+#: framework/helpers/class-options.php:798
+#: framework/helpers/class-options.php:816
+#: framework/helpers/class-options.php:919
+#: framework/helpers/class-options.php:1036
+#: framework/helpers/class-options.php:1054
+msgid "Help"
+msgstr ""
+
+#: framework/helpers/class-options.php:804
+#: framework/helpers/class-options.php:1042
+msgid "Enter CSS selectors here for this group of options"
+msgstr ""
+
+#: framework/helpers/class-options.php:805
+#: framework/helpers/class-options.php:1043
+msgid "Example( .header, #header, #header:hover or .header a:first-childe )"
+msgstr ""
+
+#: framework/helpers/class-options.php:814
+#: framework/helpers/class-options.php:1052
+msgid "Options"
+msgstr ""
+
+#: framework/helpers/class-options.php:815
+#: framework/helpers/class-options.php:1053
+msgid "Choice CSS options for the selectors."
+msgstr ""
+
+#: framework/helpers/class-options.php:827
+#: framework/helpers/class-options.php:1059
+msgid "Display"
+msgstr ""
+
+#: framework/helpers/class-options.php:834
+#: framework/helpers/class-options.php:1064
+msgid "Color"
+msgstr ""
+
+#: framework/helpers/class-options.php:840
+#: framework/helpers/class-options.php:1069
+msgid "Font-Family"
+msgstr ""
+
+#: framework/helpers/class-options.php:846
+#: framework/helpers/class-options.php:1074
+msgid "Background"
+msgstr ""
+
+#: framework/helpers/class-options.php:850
+#: framework/helpers/class-options.php:1078
+msgid ""
+"More CSS options available in <a href=\"https://wpcssgenerator.com\">PRO "
+"version</a>"
+msgstr ""
+
+#: framework/helpers/class-options.php:859
+#: framework/helpers/class-options.php:1087
+msgid "Important"
+msgstr ""
+
+#: framework/helpers/class-options.php:860
+#: framework/helpers/class-options.php:1088
+msgid "Make this options group as !important;"
+msgstr ""
+
+#: framework/helpers/class-options.php:892
+msgid "Add Selector"
+msgstr ""
+
+#: framework/helpers/class-options.php:918
+msgid ""
+"The @media rule is used to define different style rules for different media "
+"types/devices."
+msgstr ""
+
+#: framework/helpers/class-options.php:923
+msgid "Enter media query here"
+msgstr ""
+
+#: framework/helpers/class-options.php:963
+msgid "After edit don't forget to save your options."
+msgstr ""
+
+#: framework/helpers/class-options.php:1012
+msgid "New label"
+msgstr ""
+
+#: framework/helpers/class-options.php:1117
+msgid "CSS Tools"
+msgstr ""
